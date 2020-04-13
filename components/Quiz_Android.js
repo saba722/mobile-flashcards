@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { View, Text, StyleSheet, ViewPagerAndroid } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
+import ViewPager from '@react-native-community/viewpager';
 import TextButton from './TextButton';
 import TouchButton from './TouchButton';
 import { gray, green, red, textGray, darkGray, white } from '../utils/colors';
@@ -143,7 +144,7 @@ export class Quiz_Android extends Component {
     }
 
     return (
-      <ViewPagerAndroid
+      <ViewPager
         style={styles.container}
         scrollEnabled={true}
         onPageSelected={this.handlePageChange}
@@ -203,7 +204,7 @@ export class Quiz_Android extends Component {
             </View>
           </View>
         ))}
-      </ViewPagerAndroid>
+      </ViewPager>
     );
   }
 }
