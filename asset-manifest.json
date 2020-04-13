@@ -1,0 +1,33 @@
+{
+  "files": {
+    "app.js": "/mobile-flashcards/static/js/app.70eeb687.chunk.js",
+    "app.js.map": "/mobile-flashcards/static/js/app.70eeb687.chunk.js.map",
+    "runtime~app.js": "/mobile-flashcards/static/js/runtime~app.9d84807a.js",
+    "runtime~app.js.map": "/mobile-flashcards/static/js/runtime~app.9d84807a.js.map",
+    "static/js/2.d4702cab.chunk.js": "/mobile-flashcards/static/js/2.d4702cab.chunk.js",
+    "static/js/2.d4702cab.chunk.js.map": "/mobile-flashcards/static/js/2.d4702cab.chunk.js.map",
+    "fonts/AntDesign.ttf": "/mobile-flashcards/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/mobile-flashcards/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/mobile-flashcards/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/mobile-flashcards/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/mobile-flashcards/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/mobile-flashcards/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/mobile-flashcards/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/mobile-flashcards/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/mobile-flashcards/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/mobile-flashcards/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/mobile-flashcards/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/mobile-flashcards/favicon-16.png",
+    "favicon-32.png": "/mobile-flashcards/favicon-32.png",
+    "favicon.ico": "/mobile-flashcards/favicon.ico",
+    "index.html": "/mobile-flashcards/index.html",
+    "manifest.json": "/mobile-flashcards/manifest.json",
+    "serve.json": "/mobile-flashcards/serve.json",
+    "static/media/back-icon-mask.png": "/mobile-flashcards/static/media/back-icon-mask.6165c9d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.9d84807a.js",
+    "static/js/2.d4702cab.chunk.js",
+    "static/js/app.70eeb687.chunk.js"
+  ]
+}
